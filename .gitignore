@@ -1,0 +1,5 @@
+*.session
+downloads/
+dedup.db
+.env
+__pycache__/
